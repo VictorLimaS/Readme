@@ -6,14 +6,16 @@
 <h1 font-weight="bold" align="center">
 Welcome to my profile!.
 <br>
+
 ##
-👋🏽 Autodidata em busca constante de conhecimento para expandir horizontes e evoluir diariamente.
 
-🌊 Nascido e criado na baixada caiçara, tenho uma paixão intrínseca pelas ondas e a tecnologia já faz parte integrante do meu dia a dia.
+<p>👋🏽 Autodidata em busca constante de conhecimento para expandir horizontes e evoluir diariamente.</p>
 
-📚 Desenvolvimento web, comunicação e planejamento são o foco do meu trabalho.
+<p>🌊 Nascido e criado na baixada caiçara, tenho uma paixão intrínseca pelas ondas e a tecnologia já faz parte integrante do meu dia a dia.</p>
 
-💻 Busco constantemente colaborar em projetos que me proporcionem experiência, buscando não apenas contribuir, mas também participar de conversas profundas que possam enriquecer meu conhecimento em diversas áreas.
+<p> 📚 Desenvolvimento web, comunicação e planejamento são o foco do meu trabalho.</p>
+
+<p> 💻 Busco constantemente colaborar em projetos que me proporcionem experiência, buscando não apenas contribuir, mas também participar de conversas profundas que possam enriquecer meu conhecimento em diversas áreas. </p>
 
 
 
