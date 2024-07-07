@@ -15,7 +15,7 @@ Welcome to my profile!.
 
 <p> 📚 Desenvolvimento web, comunicação e planejamento são o foco do meu trabalho.</p>
 
-<p> 💻 Busco constantemente colaborar em projetos que me proporcionem experiência, buscando não apenas contribuir, mas também participar de conversas profundas que possam enriquecer meu conhecimento em diversas áreas. </p>
+<p> 💻 Busco constantemente colaborar em projetos que me proporcionem experiência, buscando não apenas contribuir, mas também participar em conversas profundas que possam enriquecer meu conhecimento em diversas áreas. </p>
 
 
 
